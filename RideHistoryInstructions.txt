@@ -1,0 +1,7 @@
+Past Rides:
+You can use this section of the Rides page to look at past rides that you have been on.
+
+Imagine that you want to remember when you carpooled to a certain destination. To do this you can:
+1. Click on the Rides page button at the top right of the home page.
+2. Scroll down to the Past Rides section.
+3. Look for the ride you are searching for.
