@@ -5,3 +5,7 @@ Imagine that you want to remember when you carpooled to a certain destination. T
 1. Click on the Rides page button at the top right of the home page.
 2. Scroll down to the Past Rides section.
 3. Look for the ride you are searching for.
+
+Sample text -> Grade level 7.4, letter grade -> A
+CS Department -> Grade level 22, letter grade -> E
+My text -> Grade level 2.3, letter grade -> A
