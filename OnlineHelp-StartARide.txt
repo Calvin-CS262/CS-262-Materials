@@ -1,0 +1,19 @@
+1. Start a ride
+
+You can use the start a ride feature to create a carpool for other people to see and join
+
+Imagine you want to create a ride from Calvin campus to Meijer on 28th Street with room for 3 passengers. These steps 
+detial how to:
+	1. Navigate to the create ride feature,
+	2. Choose a date and time for the ride,
+	3. Enter starting location and destination,
+	4. Specify the number of passengers.
+
+Press the Start a Ride button on the home page.
+Press the Pick Date button and enter the date using the Android date picker.
+Press the Pick Time button and enter the time using the Android time picker.
+	You must enter the hour of your ride before you can enter the minute.
+Enter the starting location and destination by pressing the text prompt for each field.
+To select number of passengers, click the dropdown arrow and select a number.
+Once all fields have an entry, you can press Create Ride to create the carpool object.
+	If at least one field does not have an entry, you will not be able to create a ride.
